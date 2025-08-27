@@ -108,6 +108,102 @@ body {
   font-family: 'Times New Roman', Times, serif;
 }
 
-.cpieces div{
-width: ;
+.pawn img{
+width: 200px;
+border-radius: 0.6cm;
+margin: 1px;
+border-style: solid;
+color: #000000;
 }
+
+.king img{
+width: 200px;
+border-radius: 0.6cm;
+margin: 1px;
+border-style: solid;
+color: #000000;
+}
+
+.queen img{
+width: 200px;
+border-radius: 0.6cm;
+margin: 1px;
+border-style: solid;
+color: #000000;
+}
+
+.knight img{
+width: 200px;
+border-radius: 0.6cm;
+margin: 1px;
+border-style: solid;
+color: #000000;
+transform: translate();
+}
+
+.rook img{
+width: 200px;
+border-radius: 0.6cm;
+margin: 1px;
+border-style: solid;
+color: #000000;
+transform: translate();
+}
+
+.bishop img{
+width: 200px;
+border-radius: 0.6cm;
+margin: 1px;
+border-style: solid;
+color: #000000;
+transform: translate();
+}
+
+.pawn_desc p{
+transform: translate();
+color: #5f5f5f;
+font-size: 30px;
+-webkit-text-stroke: 0.5px rgb(0, 0, 0)
+}
+
+.king_desc{
+transform: translate();
+color: #5f5f5f;
+font-size: 30px;
+-webkit-text-stroke: 0.5px rgb(0, 0, 0)
+}
+
+.queen_desc{
+transform: translate();
+color: #5f5f5f;
+font-size: 30px;
+-webkit-text-stroke: 0.5px rgb(0, 0, 0)
+}
+
+.knight_desc{
+transform: translate();
+color: #5f5f5f;
+font-size: 30px;
+-webkit-text-stroke: 0.5px rgb(0, 0, 0)
+}
+
+.rook_desc{
+transform: translate();
+color: #5f5f5f;
+font-size: 30px;
+-webkit-text-stroke: 0.5px rgb(0, 0, 0)
+}
+
+.bishop_desc{
+transform: translate();
+color: #5f5f5f;
+font-size: 30px;
+-webkit-text-stroke: 0.5px rgb(0, 0, 0)
+
+}
+
+.large-text {
+font-size: 40px;
+color: #000000;
+}
+
